@@ -1,22 +1,36 @@
 {
-  "name": "ebullience-light",
-  "displayName": "Ebullience Light",
-  "description": "A light minimal theme which is based on Intellij's Modern Light theme.",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.82.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "icon": "./assets/icon.png",
-  "contributes": {
-    "themes": [
-      {
-        "label": "Ebullience Light",
-        "uiTheme": "vs",
-        "path": "./themes/Ebullience Light-color-theme.json"
-      }
+    "name": "ebullience-light",
+    "displayName": "Ebullience Light",
+    "description": "A light minimal theme which is based on Intellij's Modern Light theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.82.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "./assets/icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Ebullience Light",
+                "uiTheme": "vs",
+                "path": "./themes/Ebullience Light-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "Ananta",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ananta0810/ebullience-theme"
+    },
+    "keywords": [
+        "Light Theme",
+        "Intellij Light Theme",
+        "Blue",
+        "Blue and violet",
+        "Minimal",
+        "Elegant",
+        "Clean"
     ]
-  }
 }
