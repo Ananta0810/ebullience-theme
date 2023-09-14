@@ -1,0 +1,21 @@
+{
+  "name": "ebullience-light",
+  "displayName": "Ebullience Light",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ebullience Light",
+        "uiTheme": "vs",
+        "path": "./themes/Ebullience Light-color-theme.json"
+      }
+    ]
+  }
+}
