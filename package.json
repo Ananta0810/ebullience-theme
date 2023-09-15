@@ -2,7 +2,7 @@
     "name": "ebullience-light",
     "displayName": "Ebullience Light",
     "description": "A light minimal theme which is based on Intellij's Modern Light theme.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.82.0"
     },
